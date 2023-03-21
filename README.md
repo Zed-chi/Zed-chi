@@ -2,7 +2,6 @@
 
 - 🌱 learning APIs in Py, some Highload stuff, DBs
 - 👯 looking for collaborations
-- 🤔 I’m looking for help with general programming
 
 <!--
 **Zed-chi/Zed-chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
