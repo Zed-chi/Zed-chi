@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 learning APIs in Py, some Highload stuff, DBs
+- 🌱 learning APIs in Py
 - 👯 looking for collaborations
 
 <!--
